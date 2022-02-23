@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... 🤔
 - 📫 How to reach me ... ✨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitkbc&theme=tokyonight&count_private=true&show_icons=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitkbc&theme=tokyonight&count_private=true&show_icons=true)
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkbc&layout=compact)]  ---> <!--- Language Stats --->
 <!---
