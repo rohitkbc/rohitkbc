@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Chaudhari
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning in ACTS, Pune
+- 🌱 I’m currently learning in CDAC ACTS, Pune
 - 💞️ I’m looking to collaborate on ... 🤔
 - 📫 How to reach me ... ✨
 
