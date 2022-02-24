@@ -15,7 +15,7 @@
 - 🌱 I’m currently studying in CDAC ACTS, Pune
 - 💞️ I’m looking to collaborate on ... 🤔
 - 📫 How to reach me ... ✨
--⚡️ Fun-Fact: I have a masters degree in structural engineering
+- ⚡️ Fun-Fact: I have a masters degree in structural engineering
 
 <p align="center">
   <img width="130" src="https://komarev.com/ghpvc/?username=rohitkbc&color=yellow&label=Profle+Views">
