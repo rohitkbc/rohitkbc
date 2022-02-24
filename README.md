@@ -10,12 +10,12 @@
  
 </p>
  
-<h4 align="center">- 👋 Hi, I’m Rohit Chaudhari</h4>
-<h4 align="center">- 👀 I’m interested in Full Stack Development</h4>
-<h4 align="center">- 🌱 I’m currently studying in CDAC ACTS, Pune</h4>
-<h4 align="center">- 💞️ I’m looking to collaborate on ... 🤔</h4>
-<h4 align="center">- 📫 How to reach me ... ✨</h4>
-<h4 align="center">-⚡️ Fun-Fact: I have a masters degree in structural engineering</h4>
+- 👋 Hi, I’m Rohit Chaudhari
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently studying in CDAC ACTS, Pune
+- 💞️ I’m looking to collaborate on ... 🤔
+- 📫 How to reach me ... ✨
+-⚡️ Fun-Fact: I have a masters degree in structural engineering
 
 <p align="center">
   <img width="130" src="https://komarev.com/ghpvc/?username=rohitkbc&color=yellow&label=Profle+Views">
