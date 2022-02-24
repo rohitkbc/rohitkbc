@@ -22,6 +22,10 @@
 </p>
 
 <p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkbc&theme=tokyonight">
 </p>
 
