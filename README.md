@@ -18,8 +18,13 @@
 - ⚡️ Fun-Fact: I have a masters degree in structural engineering
 
 <p align="center">
-  <img width="130" src="https://komarev.com/ghpvc/?username=rohitkbc&color=yellow&label=Profle+Views">
+  <a href="https://www.twitter.com/rohitkbc/"> <img width="90" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a> &nbsp;&nbsp;
+  <img width="130" src="https://komarev.com/ghpvc/?username=rohitkbc&color=yellow&label=Profle+Views"> &nbsp;&nbsp;
+  <a href="https://discordapp.com/users/Rohit#3394/"> <img width="90" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> </a>
 </p>
+
+
+  
 
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
