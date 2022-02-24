@@ -1,20 +1,35 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Rohit+Chaudhari;Student+at+CDAC+ACTS,+Pune)
+<p align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I+am+Rohit+Chaudhari;Student+at+CDAC+ACTS,+Pune;&font=Fira%20Code&center=true&width=380&height=50">
+
+</p>
+
+<p align="center">
+
+ <img src="https://i.ibb.co/K01DTrZ/1280px-Man-Working-at-his-Laptop-on-the-Couch-Cartoon-Vector-svg.png" width="150">
  
-- 👋 Hi, I’m Rohit Chaudhari
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning in CDAC ACTS, Pune
-- 💞️ I’m looking to collaborate on ... 🤔
-- 📫 How to reach me ... ✨
+</p>
+ 
+<h4 align="center">- 👋 Hi, I’m Rohit Chaudhari</h4>
+<h4 align="center">- 👀 I’m interested in Full Stack Development</h4>
+<h4 align="center">- 🌱 I’m currently learning in CDAC ACTS, Pune</h4>
+<h4 align="center">- 💞️ I’m looking to collaborate on ... 🤔</h4>
+<h4 align="center">- 📫 How to reach me ... ✨</h4>
 
-![](https://komarev.com/ghpvc/?username=rohitkbc&color=yellow&label=Profle+Views)
+<p align="center">
+  <img width="130" src="https://komarev.com/ghpvc/?username=rohitkbc&color=yellow&label=Profle+Views">
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitkbc&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkbc&theme=tokyonight">
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitkbc&theme=tokyonight&count_private=true&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitkbc&theme=tokyonight&count_private=true&show_icons=true">
+</p>
 
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkbc&layout=compact)  ---> <!--- Language Stats --->
 <!---
-rohitkbc/rohitkbc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkbc&layout=compact&theme=tokyonight">
+</p>                                                                                                                       <!--- Language Stats --->
+
