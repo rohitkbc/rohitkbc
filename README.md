@@ -15,6 +15,7 @@
 <h4 align="center">- 🌱 I’m currently studying in CDAC ACTS, Pune</h4>
 <h4 align="center">- 💞️ I’m looking to collaborate on ... 🤔</h4>
 <h4 align="center">- 📫 How to reach me ... ✨</h4>
+<h4 align="center">-⚡️ Fun-Fact: I have a masters degree in structural engineering</h4>
 
 <p align="center">
   <img width="130" src="https://komarev.com/ghpvc/?username=rohitkbc&color=yellow&label=Profle+Views">
