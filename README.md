@@ -12,7 +12,7 @@
  
 <h4 align="center">- 👋 Hi, I’m Rohit Chaudhari</h4>
 <h4 align="center">- 👀 I’m interested in Full Stack Development</h4>
-<h4 align="center">- 🌱 I’m currently learning in CDAC ACTS, Pune</h4>
+<h4 align="center">- 🌱 I’m currently studying in CDAC ACTS, Pune</h4>
 <h4 align="center">- 💞️ I’m looking to collaborate on ... 🤔</h4>
 <h4 align="center">- 📫 How to reach me ... ✨</h4>
 
