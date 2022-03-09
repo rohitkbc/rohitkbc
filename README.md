@@ -14,7 +14,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently studying in CDAC ACTS, Pune
 - 💞️ I’m looking to collaborate on ... 🤔
-- 📫 How to reach me => <a href="https://www.twitter.com/rohitkbc/" target="_blank">Twitter</a>✨<a href="https://discordapp.com/users/Rohit#3394/" target="_blank">Discord</a>✨<a href="mailto:rohitkbc@gmail.com">GMail</a>
+- 📫 How to reach me => <a href="https://www.twitter.com/rohitkbc/" target="_blank" rel="noopener noreferrer">Twitter</a>✨<a href="https://discordapp.com/users/Rohit#3394/" target="_blank">Discord</a>✨<a href="mailto:rohitkbc@gmail.com">GMail</a>
 - ⚡️ Fun-Fact: I have a masters degree in structural engineering
 
 <p align="center">
