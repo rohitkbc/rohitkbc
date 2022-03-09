@@ -14,13 +14,13 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently studying in CDAC ACTS, Pune
 - 💞️ I’m looking to collaborate on ... 🤔
-- 📫 How to reach me => <a href="https://www.twitter.com/rohitkbc/">Twitter</a>✨<a href="https://discordapp.com/users/Rohit#3394/">Discord</a>✨<a href="mailto:rohitkbc@gmail.com">GMail</a>
+- 📫 How to reach me => <a href="https://www.twitter.com/rohitkbc/" target="_blank">Twitter</a>✨<a href="https://discordapp.com/users/Rohit#3394/" target="_blank">Discord</a>✨<a href="mailto:rohitkbc@gmail.com">GMail</a>
 - ⚡️ Fun-Fact: I have a masters degree in structural engineering
 
 <p align="center">
-  <a href="https://www.twitter.com/rohitkbc/"> <img width="90" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a> &nbsp;&nbsp;
+  <a href="https://www.twitter.com/rohitkbc/" target="_blank"> <img width="90" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a> &nbsp;&nbsp;
   <img width="130" src="https://komarev.com/ghpvc/?username=rohitkbc&color=yellow&label=Profle+Views"> &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/Rohit#3394/"> <img width="90" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> </a> &nbsp;&nbsp;
+  <a href="https://discordapp.com/users/Rohit#3394/" target="_blank"> <img width="90" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> </a> &nbsp;&nbsp;
   <a href="mailto:rohitkbc@gmail.com"> <img width="77" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 </p>
 
