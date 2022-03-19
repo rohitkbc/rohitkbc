@@ -37,7 +37,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohitkbc&theme=tokyonight&count_private=true&show_icons=true">
 </p>
-                                                                                                                    <!--- Language Stats --->
+                                                                                                                
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkbc&theme=tokyonight&count_private=true&show_icons=true">
+</p>
 
 <p align="center">
 <img src="https://github.com/rohitkbc/rohitkbc/blob/output/github-contribution-grid-snake.svg">
