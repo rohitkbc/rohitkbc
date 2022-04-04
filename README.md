@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I+am+Rohit+Chaudhari;Let's+connect;&font=Fira%20Code&center=true&width=380&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I+am+Rohit+Chaudhari;How you doin'?;&font=Fira%20Code&center=true&width=380&height=50">
 
 </p>
 
@@ -15,7 +15,7 @@
 - 🌱 I’m currently studying in CDAC ACTS, Pune
 - 💞️ I’m looking to collaborate on ... 🤔
 - 📫 How to reach me => <a href="https://www.twitter.com/rohitkbc/" >Twitter</a>✨<a href="https://discordapp.com/users/Rohit#3394/" >Discord</a>✨<a href="mailto:rohitkbc@gmail.com">GMail</a>
-- ⚡️ Fun-Fact: I have a masters degree in structural engineering
+- ⚡️ Fun-Fact: I have a Masters Degree in Structural Engineering
 
 
 <p align="center">
