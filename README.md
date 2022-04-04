@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I+am+Rohit+Chaudhari;Student+at+CDAC+ACTS,+Pune;&font=Fira%20Code&center=true&width=380&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I+am+Rohit+Chaudhari;Let's+connect;&font=Fira%20Code&center=true&width=380&height=50">
 
 </p>
 
