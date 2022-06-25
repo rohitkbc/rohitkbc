@@ -12,7 +12,7 @@
  
 - 👋 Hi, I’m Rohit Chaudhari
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently studying in CDAC ACTS, Pune
+- 🌱 I’m currently enrolled in IT course
 - 💞️ I’m looking to collaborate on ... 🤔
 - 📫 How to reach me => <a href="https://www.twitter.com/rohitkbc/" >Twitter</a>✨<a href="https://discordapp.com/users/Rohit#3394/" >Discord</a>✨<a href="mailto:rohitkbc@gmail.com">GMail</a>
 - ⚡️ Fun-Fact: I have a Masters Degree in Structural Engineering
