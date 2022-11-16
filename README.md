@@ -11,8 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/rohitkbc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitkbc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohitchaudhari1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitchaudhari1997" height="30" width="40" /></a>
-<a href="https://rohitkbc.hashnode.dev/" target="blank"><img width="30" src="https://user-images.githubusercontent.com/100275369/202148035-0c8e4c7b-23de-412b-95bc-0b1070110b88.png"></a>
-<a href="/https://rohitkbc.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rohitkbc.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
