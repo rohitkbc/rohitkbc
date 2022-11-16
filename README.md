@@ -2,9 +2,9 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://rohitkbc.hashnode.dev/how-to-send-files-folders-from-local-pc-to-remote-server-using-scp"><img width="140px" src="$imgId"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://rohitkbc.hashnode.dev/how-to-send-files-folders-from-local-pc-to-remote-server-using-scp"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664452023824/T8kZ7x3G0.png"></a></td>
 <td><a href="https://rohitkbc.hashnode.dev/how-to-send-files-folders-from-local-pc-to-remote-server-using-scp">How to Send Files / Folders from Local PC to Remote Server ? &lpar;Using SCP&rpar;</a></td></tr></table>
-<table><tr><td><a href="https://rohitkbc.hashnode.dev/how-to-create-ec2-instance-and-access-it-remotely-step-by-step"><img width="140px" src="$imgId"></a></td>
+<table><tr><td><a href="https://rohitkbc.hashnode.dev/how-to-create-ec2-instance-and-access-it-remotely-step-by-step"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664217168657/NHHnoSLHx.png"></a></td>
 <td><a href="https://rohitkbc.hashnode.dev/how-to-create-ec2-instance-and-access-it-remotely-step-by-step">How to Create EC2 Instance and Access It Remotely? &lpar;Step by Step&rpar;</a></td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
