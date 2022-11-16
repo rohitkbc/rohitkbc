@@ -3,6 +3,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Send Files / Folders from Local PC to Remote Server ? &lpar;Using SCP&rpar;](https://rohitkbc.hashnode.dev/how-to-send-files-folders-from-local-pc-to-remote-server-using-scp)
+- [How to Create EC2 Instance and Access It Remotely? &lpar;Step by Step&rpar;](https://rohitkbc.hashnode.dev/how-to-create-ec2-instance-and-access-it-remotely-step-by-step)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
