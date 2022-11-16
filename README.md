@@ -31,9 +31,13 @@
 <td><a href="https://rohitkbc.hashnode.dev/how-to-create-ec2-instance-and-access-it-remotely-step-by-step">How to Create EC2 Instance and Access It Remotely? &lpar;Step by Step&rpar;</a></td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitkbc&show_icons=true&theme=transparent&locale=en&layout=compact" alt="rohitkbc" /></p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkbc&show_icons=true&include_all_commits=true&theme=transparent&hide_border=false"/>
+  <p/>
+ <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkbc&layout=compact&theme=transparent&hide_border=false" /> 
+  <p/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rohitkbc&show_icons=true&theme=transparent&include_all_commits=true&locale=en" alt="rohitkbc" /></p>
 
 
 
