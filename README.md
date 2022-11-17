@@ -23,7 +23,9 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="spring"/> </a>
-<a href="https://postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> </a> </p>
+<a href="https://postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> </a>
+<a href="https://hashnode.com/@rohitkbc" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode"/> </a>
+</p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://rohitkbc.hashnode.dev/how-to-send-files-folders-from-local-pc-to-remote-server-using-scp"><img width="140px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664452023824/T8kZ7x3G0.png"></a></td>
