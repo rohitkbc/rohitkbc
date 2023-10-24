@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/100275369/202168045-6921461a-be49-4c48-b9e2-50f1f3fe4566.png"/></a>
-
+[![An image of @rohitkbc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitkbc)](https://holopin.io/@rohitkbc)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rohitkbc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitkbc" height="30" width="40" /></a>
@@ -40,8 +40,6 @@
  <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkbc&layout=compact&theme=transparent&hide_border=false" /> 
   <p/>
-
-
 
 
 
